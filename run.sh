@@ -29,6 +29,7 @@ cmd=( qemu-system-x86_64
 	-s
 # Wait for GDB before starting execution
 #	-S
+        -nographic
 )
 
 #execute the cmd string
