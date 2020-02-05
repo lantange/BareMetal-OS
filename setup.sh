@@ -8,7 +8,7 @@ mkdir sys
 echo Pulling code from GitHub...
 cd src
 git clone https://github.com/lantange/Pure64.git -q
-git clone https://github.com/lantange/BareMetal-kernel.git -q
+git clone https://github.com/lantange/BareMetal.git -q
 git clone https://github.com/lantange/BareMetal-Monitor.git -q
 git clone https://github.com/lantange/BMFS.git -q
 git clone https://github.com/lantange/BareMetal-Demo.git -q
