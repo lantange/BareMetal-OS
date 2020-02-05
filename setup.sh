@@ -7,11 +7,11 @@ mkdir sys
 
 echo Pulling code from GitHub...
 cd src
-git clone https://github.com/ReturnInfinity/Pure64.git -q
-git clone https://github.com/ReturnInfinity/BareMetal.git -q
-git clone https://github.com/ReturnInfinity/BareMetal-Monitor.git -q
-git clone https://github.com/ReturnInfinity/BMFS.git -q
-git clone https://github.com/ReturnInfinity/BareMetal-Demo.git -q
+git clone https://github.com/lantange/Pure64.git -q
+git clone https://github.com/lantange/BareMetal.git -q
+git clone https://github.com/lantange/BareMetal-Monitor.git -q
+git clone https://github.com/lantange/BMFS.git -q
+git clone https://github.com/lantange/BareMetal-Demo.git -q
 cd ..
 
 echo Creating disk image...
