@@ -28,7 +28,7 @@ cmd=( qemu-system-x86_64
 # Enable GDB debugging
 	-s
 # Wait for GDB before starting execution
-#	-S
+	-S
         -nographic
 )
 
